@@ -1,11 +1,11 @@
-[README.md](https://github.com/user-attachments/files/29737687/README.md)
+[README (1).md](https://github.com/user-attachments/files/29739099/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Edwin%20Eby&fontSize=60&fontColor=e0d4ff&animation=fadeIn&fontAlignY=35&desc=Software%20QA%20Engineer%20%7C%20Aspiring%20Data%20%26%20BI%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B794F6&center=true&vCenter=true&width=650&lines=Quality+Assurance+%26+Test+Automation+Engineer;Aspiring+Data+%26+BI+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+API+Testing;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=700&height=50&lines=Quality+Assurance+%26+Test+Automation+Engineer;Aspiring+Data+%26+BI+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+API+Testing;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -198,19 +198,9 @@ reliability before release.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=edwineby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=b794f6&icon_color=8b5cf6&text_color=e0d4ff&ring_color=6d28d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwineby&theme=tokyonight&hide_border=true&background=0f0524&ring=6d28d9&fire=8b5cf6&currStreakLabel=b794f6" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=edwineby&theme=tokyonight&hide_border=true&background=0f0524&ring=6d28d9&fire=8b5cf6&currStreakLabel=b794f6" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwineby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=b794f6&text_color=e0d4ff" width="49%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=edwineby&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
