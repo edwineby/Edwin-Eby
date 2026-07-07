@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Edwin%20Eby&fontSize=60&fontColor=e0d4ff&animation=fadeIn&fontAlignY=35&desc=Software%20QA%20Engineer%20-%20Aspiring%20Data%20BI%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Edwin%20Eby&fontSize=60&fontColor=e0d4ff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <br/>
 
-### `Quality Assurance & Test Automation Engineer`
-### `Aspiring Data & BI Analyst`
-
-**Power BI&nbsp;&nbsp;·&nbsp;&nbsp;SQL&nbsp;&nbsp;·&nbsp;&nbsp;Python&nbsp;&nbsp;·&nbsp;&nbsp;API Testing**
-
-*Turning Raw Data Into Decisions*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=700&height=50&lines=Quality+Assurance+and+Test+Automation+Engineer;Aspiring+Data+and+BI+Analyst;Power+BI+-+SQL+-+Python+-+API+Testing;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
 
 <br/>
 
