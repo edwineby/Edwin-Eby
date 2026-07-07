@@ -1,11 +1,15 @@
-[README (1).md](https://github.com/user-attachments/files/29739099/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Edwin%20Eby&fontSize=60&fontColor=e0d4ff&animation=fadeIn&fontAlignY=35&desc=Software%20QA%20Engineer%20%7C%20Aspiring%20Data%20%26%20BI%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=B794F6&center=true&vCenter=true&width=700&height=50&lines=Quality+Assurance+%26+Test+Automation+Engineer;Aspiring+Data+%26+BI+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+API+Testing;Turning+Raw+Data+Into+Decisions)](https://git.io/typing-svg)
+### `Quality Assurance & Test Automation Engineer`
+### `Aspiring Data & BI Analyst`
+
+**Power BI&nbsp;&nbsp;·&nbsp;&nbsp;SQL&nbsp;&nbsp;·&nbsp;&nbsp;Python&nbsp;&nbsp;·&nbsp;&nbsp;API Testing**
+
+*Turning Raw Data Into Decisions*
 
 <br/>
 
