@@ -197,7 +197,7 @@ reliability before release.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=edwineby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=b794f6&icon_color=8b5cf6&text_color=e0d4ff&ring_color=6d28d9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=edwineby&theme=tokyonight&hide_border=true&background=0f0524&ring=6d28d9&fire=8b5cf6&currStreakLabel=b794f6" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=edwineby&theme=tokyonight&hide_border=true&background=0f0524&ring=6d28d9&fire=8b5cf6&currStreakLabel=b794f6" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwineby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=b794f6&text_color=e0d4ff" width="49%"/>
 
